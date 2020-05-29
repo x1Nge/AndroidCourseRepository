@@ -1,7 +1,7 @@
 # NotePad功能添加
 -------------------
 @author：065
-
+（README.md图片无法显示请看备用文章[链接](https://blog.csdn.net/x1Nge/article/details/106424769)）
 NotePad是一个比较完整的安卓开发sample，只不过源码都比较旧了，这一次期中考试开始的时候我花了很久的时间让整个项目跑起来，顺便更新了一些方法的用法。
 首先，阅读老师给的整个项目的初步分析（[链接](https://blog.csdn.net/llfjfz/article/details/67638499)）大致了解了整个项目的结构
 > **原文：**“一共包含了6个类，其中4个Activity，一个ContentProvider，还有一个数据契约类。
